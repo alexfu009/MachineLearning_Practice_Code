@@ -1,4 +1,4 @@
-# machineLearning_practice
+# MchineLearning_Practice_Code
 some basic practice code for studying of machine learning.
  
 Include:
